@@ -3,7 +3,7 @@
  * @author: Derron Pierre
  * @date: August 30, 2022
  * @version: 1.0
- * description: this program will display the two rocket image.
+ * description: this program will display two coded rockets side by side.
  */
 
 public class TwoRockets {
